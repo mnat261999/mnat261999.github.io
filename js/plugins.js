@@ -21,7 +21,6 @@
 
 
 /*========== Avoid Console ==========*/
-var $ = jQuery;
 (function() {
 	var method;
 	var noop = function () {};
